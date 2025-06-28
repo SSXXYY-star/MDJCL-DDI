@@ -28,7 +28,7 @@ When installing these packages, other unlisted packages will be installed.
 All training, validation, test should follow specification to be parsed correctly by MDJCL-DDI.
 The
 ```
-data/
+dataset/
 ├── train.csv
 ├── val.csv
 ├── test.csv
